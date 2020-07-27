@@ -1,4 +1,4 @@
-Procedure to follow for GIT
+Scripts for Practicing git
 
 1. Step One: Please go to file path GithubProj    - done 
   
